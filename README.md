@@ -12,7 +12,7 @@ I’m a **Junior Backend Developer** from **Uzbekistan**, specializing in **Java
 
 ---
 
-### 👯 I’m looking to collaborate on open source projects that can help me enhance my skills.
+### 🚀🚀 I’m looking to collaborate on open source projects that can help me enhance my skills.
 
 ### 📫 How to reach me:
 - **[LinkedIn](https://www.linkedin.com/in/doston-sulaymon-7a085a242/)**
