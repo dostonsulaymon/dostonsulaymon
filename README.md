@@ -17,7 +17,7 @@ I’m a **Junior Backend Developer** from **Uzbekistan**, specializing in **Java
 ### 📫 How to reach me:
 - **[LinkedIn](https://www.linkedin.com/in/doston-sulaymon-7a085a242/)**
 - **[Telegram](https://t.me/dostonsulaymon01)**
-- * [dostonqosimiy19@gmail.com](dostonqosimiy19@gmail.com)
+- **[Email](dostonqosimiy19@gmail.com)
 - **[LeetCode](https://leetcode.com/u/doston0123/)**
 
 Let’s connect and collaborate! 🤝
