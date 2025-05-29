@@ -1,23 +1,45 @@
 # Hi, I’m Doston Sulaymon 👋
 
-I’m a **Junior Backend Developer** from **Uzbekistan**, specializing in **Java** and **Spring-based technologies** (including **Spring Boot**, **Spring Security**, and more). I’m passionate about **web development**, particularly focusing on backend solutions and scalable systems.
+I’m a **Junior Backend Developer** from **Uzbekistan**, specializing in **Java** and **Spring technologies**, including **Spring Boot**, **Spring Security**, and more. I'm passionate about building scalable and robust backend systems.
 
-🚀 I’ve worked on projects like a **[YouTube Clone](https://github.com/dostonbekqosimov/youtube-backend)**, where I gained hands-on experience with **Spring Security**, **Docker**, **Swagger**, **logging**, and more, expanding my skill set in modern backend development.
+🚀 I’ve worked on real-world projects like a **[YouTube Clone](https://github.com/dostonbekqosimov/youtube-backend)**, where I gained hands-on experience with:
+- **Spring Security**
+- **Docker**
+- **Swagger**
+- **Logging**  
+…and other tools in modern backend development.
 
-🎓 I’m **self-taught** and continuously stay updated with new technologies through reading articles and LinkedIn tutorials.
+🎓 I’m a **self-taught** developer, continuously learning through articles, documentation, and LinkedIn tutorials.
 
-🌱 My goal is to work with a **FAANG company** or start my own venture. I’m deeply interested in **backend development** and want to explore**mobile development** too.
+🌱 I aim to work at a **FAANG company** or launch my own startup. While my primary interest is backend development, I’m also excited to explore **mobile development** in the future.
 
-💡 In my free time, I enjoy **reading**, playing **ping pong**, and I’m a huge fan of **strategy games** like *Generals*.
+🎯 **In my free time**, I enjoy:
+- Reading 📚
+- Playing ping pong 🏓
+- Strategy games like *Generals* 🎮
 
 ---
 
-### 🚀🚀 I’m looking to collaborate on open source projects that can help me enhance my skills.
+### 🤝 I’m open to collaborating on open-source projects to grow my skills and contribute to the community.
 
-### 📫 How to reach me:
-- **[LinkedIn](https://www.linkedin.com/in/doston-sulaymon-7a085a242/)**
-- **[Telegram](https://t.me/dostonsulaymon01)**
-- **[Email](dostonqosimiy19@gmail.com)**
-- **[LeetCode](https://leetcode.com/u/doston0123/)**
+### 📫 Let’s connect:
+- [LinkedIn](https://www.linkedin.com/in/doston-sulaymon-7a085a242/)
+- [Telegram](https://t.me/dostonsulaymon01)
+- [Email](mailto:dostonqosimiy19@gmail.com)
+- [LeetCode](https://leetcode.com/u/doston0123/)
 
-Let’s connect and collaborate! 🤝
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+
+![Doston's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dostonsulaymon&show_icons=true&theme=default&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dostonsulaymon&layout=compact)
+
+</div>
+
+---
+
+Let’s build something awesome together! 🚀
