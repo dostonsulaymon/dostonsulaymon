@@ -1,24 +1,6 @@
 # Hi, I’m Doston Sulaymon 👋
 
-I’m a **Junior Backend Developer** from **Uzbekistan**, specializing in **Java** and **Spring technologies**, including **Spring Boot**, **Spring Security**, and more. I'm passionate about building scalable and robust backend systems.
-
-🚀 I’ve worked on real-world projects like a **[YouTube Clone](https://github.com/dostonbekqosimov/youtube-backend)**, where I gained hands-on experience with:
-- **Spring Security**
-- **Docker**
-- **Swagger**
-- **Logging**
-…and more tools in modern backend development.
-
-🎓 I’m a **self-taught** developer, constantly learning through articles, documentation, and LinkedIn tutorials.
-
-🌱 I aim to work at a **FAANG company** or launch my own startup. While my main focus is backend development, I’m also excited to explore **mobile development**.
-
-🎯 **In my free time**, I enjoy:
-- Reading 📚
-- Playing ping pong 🏓
-- Strategy games like *Generals* 🎮
-
----
+I’m a **Backend Developer** from **Uzbekistan** I'm passionate about building scalable and robust backend systems.
 
 ### 🤝 I’m open to collaborating on open-source projects to grow my skills and contribute to the community.
 
