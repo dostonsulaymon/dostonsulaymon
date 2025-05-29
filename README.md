@@ -6,12 +6,12 @@ I’m a **Junior Backend Developer** from **Uzbekistan**, specializing in **Java
 - **Spring Security**
 - **Docker**
 - **Swagger**
-- **Logging**  
-…and other tools in modern backend development.
+- **Logging**
+…and more tools in modern backend development.
 
-🎓 I’m a **self-taught** developer, continuously learning through articles, documentation, and LinkedIn tutorials.
+🎓 I’m a **self-taught** developer, constantly learning through articles, documentation, and LinkedIn tutorials.
 
-🌱 I aim to work at a **FAANG company** or launch my own startup. While my primary interest is backend development, I’m also excited to explore **mobile development** in the future.
+🌱 I aim to work at a **FAANG company** or launch my own startup. While my main focus is backend development, I’m also excited to explore **mobile development**.
 
 🎯 **In my free time**, I enjoy:
 - Reading 📚
@@ -34,9 +34,11 @@ I’m a **Junior Backend Developer** from **Uzbekistan**, specializing in **Java
 
 <div align="center">
 
-![Doston's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dostonsulaymon&show_icons=true&theme=default&hide_title=true)
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=dostonsulaymon&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dostonsulaymon&layout=compact)
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dostonsulaymon&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=dostonsulaymon,leetcode-solutions" alt="Top Languages" />
 
 </div>
 
